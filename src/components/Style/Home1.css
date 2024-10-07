@@ -1,0 +1,17 @@
+li{
+    padding:80px;
+    display: inline-block;
+    cursor:pointer;
+}
+li:hover{
+    font-size: larger;
+}
+label{
+    margin: 40px;
+}
+button{
+    margin-top: 20px;
+}
+input{
+    margin:20px;
+}
